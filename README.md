@@ -2,6 +2,9 @@
 
 Malware is a significant cyber threat, encompassing various malicious software that can cause information theft, espionage, ransomware attacks, and more. The ever-growing diversity of malware poses a substantial challenge for traditional anti-virus scanners, leaving millions of hosts vulnerable to attacks. In 2021, approximately 1,220.46 million malwares were examined (AV TEST, May 2021), highlighting the magnitude of this issue. Cybercrime, largely fueled by malware, is predicted to cost the world $10.5 trillion annually by 2025.
 
+[View the Project here in HTML](https://sufianadnan.github.io/CLaMP-Machine-Learning-Project/)
+[View the Project here in Jupyter](https://github.com/sufianadnan/CLaMP-Machine-Learning-Project/blob/main/Project.ipynb)
+
 ## Project Objective
 
 The primary objective of this project is to develop a machine learning-based malware detector and evaluate its accuracy. We aim to conduct static analysis on malware samples, identify optimal features for different machine learning algorithms, and determine the most accurate algorithm for distinguishing malware from benign samples with the lowest error rate.
